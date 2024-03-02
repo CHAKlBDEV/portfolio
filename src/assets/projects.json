@@ -1,0 +1,9 @@
+[
+    {
+        "title": "Team Collaboration App",
+        "slug": "teamab",
+        "description": "This is a team collaboration app (slack clone). Client needed a fully functioning MVP in 14 days. Was delivered in time.",
+        "thumbnailImageUrl": "/images/teamab/1.jpg",
+        "images": ["/images/teamab/1.jpg", "/images/teamab/2.jpg", "/images/teamab/3.jpg"]
+    }
+]
